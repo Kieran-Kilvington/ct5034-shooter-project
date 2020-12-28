@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{bc382cb8-df1a-4ab1-8747-56c397d38ed4}">
+        <property name="assetPath">
+            <value>RocketRespawnSound.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.7308333333333334</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4001fe16-314a-41d4-9039-ff9ee4f78a08}</destination>
+        </relationship>
+    </object>
+</objects>

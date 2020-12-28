@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{aad61b35-8ba8-4b03-a278-7f91d1e57fdd}">
+        <property name="assetPath">
+            <value>RocketLoad.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.9038541666666666</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4001fe16-314a-41d4-9039-ff9ee4f78a08}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{4efeea13-409c-45df-828c-8ecea5e644f4}">
+        <property name="assetPath">
+            <value>Accent,Sound Design,Electric,Buzz,Resonant,Frayed Buzz,Insistent,Medium Fast.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.0396979166666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4001fe16-314a-41d4-9039-ff9ee4f78a08}</destination>
+        </relationship>
+    </object>
+</objects>

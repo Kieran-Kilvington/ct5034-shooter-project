@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{ac642de0-9e3e-4749-889b-25401453e4c7}">
+        <property name="assetPath">
+            <value>Jet,Fighter,F-16C,Fighting Falcon,Viper,Medium Distant,By,Right to Centre,Curl Away,Fast,Breathy,191.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>19.626687499999999</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4001fe16-314a-41d4-9039-ff9ee4f78a08}</destination>
+        </relationship>
+    </object>
+</objects>

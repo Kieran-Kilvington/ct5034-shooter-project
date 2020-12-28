@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{02ae1f58-f823-4827-ab39-147e3cff3ca9}">
+        <property name="assetPath">
+            <value>Smith_&amp;_Wesson_M29_.44_Magnum_foley_close_up_MKH416_cylinder_open_&amp;_close.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>40.343458333333331</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4001fe16-314a-41d4-9039-ff9ee4f78a08}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{71ed0f04-9cfe-43e7-82c3-901f98cdd58d}">
+        <property name="assetPath">
+            <value>BERLIN_HAUPTBAHNHOF_STATION HALL CLOSE TO ELEVATOR_UNDERGROND LEVEL_DISTANT TRAINS INCOMING AND OUTGOING_PEOPLE WALK BY_ANNOUNCEMENTS_WALLA4, UB01-044.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>215.72356250000001</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4001fe16-314a-41d4-9039-ff9ee4f78a08}</destination>
+        </relationship>
+    </object>
+</objects>

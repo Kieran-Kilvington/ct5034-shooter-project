@@ -477,6 +477,10 @@ protected:
 	/** [local + server] handle weapon fire */
 	void HandleFiring();
 
+	/** A blueprint event triggered by firing the weapon */
+	UFUNCTION(BlueprintImplementableEvent)
+	void OnFireEvent();
+
 	/** [local + server] firing started */
 	virtual void OnBurstStarted();
 

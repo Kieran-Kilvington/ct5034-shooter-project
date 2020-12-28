@@ -439,6 +439,9 @@ void AShooterWeapon::HandleFiring()
 		{
 			FireWeapon();
 
+			// Trigger our BP event to play audio
+			OnFireEvent();
+
 			UseAmmo();
 			
 			// update firing FX on remote clients if function was called on server
